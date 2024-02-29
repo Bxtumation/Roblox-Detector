@@ -2,9 +2,9 @@
 |   Version 0.1                               |
 |                                             |
 |   [+] Roblox Detector Has Been Released     |
-|   [+] Added Roblox Detecting ✔️             |
-|   [+] Added Web Version ✔️                  |
-|   [+] Added Microsoft Store Version ✔️      |
+|   [+] Added Roblox Detecting                |
+|   [+] Added Web Version                     |
+|   [+] Added Microsoft Store Version         |
 |                                             |
 |   [.] 22.02.2024                            |
 •---------------------------------------------•
